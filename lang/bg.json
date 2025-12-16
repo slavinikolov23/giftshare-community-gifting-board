@@ -1,0 +1,25 @@
+{
+    "Profile": "Профил",
+    "Profile Information": "Информация за профила",
+    "Update Password": "Актуализиране на парола",
+    "Delete Account": "Изтриване на акаунт",
+    "Name": "Име",
+    "Email": "Имейл",
+    "Password": "Парола",
+    "Current Password": "Текуща парола",
+    "New Password": "Нова парола",
+    "Confirm Password": "Потвърди парола",
+    "Save": "Запази",
+    "Saved.": "Запазено.",
+    "Cancel": "Отказ",
+    "Warning": "Внимание",
+    "Update your account's profile information and email address.": "Актуализирайте информацията за профила и имейл адреса на вашия акаунт.",
+    "Your email address is unverified.": "Вашият имейл адрес не е потвърден.",
+    "Click here to re-send the verification email.": "Кликнете тук, за да изпратите отново имейл за потвърждение.",
+    "A new verification link has been sent to your email address.": "Нов линк за потвърждение беше изпратен на вашия имейл адрес.",
+    "Ensure your account is using a long, random password to stay secure.": "Уверете се, че вашият акаунт използва дълга, случайна парола за сигурност.",
+    "Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.": "След изтриване на акаунта ви, всички негови ресурси и данни ще бъдат перманентно изтрити. Преди изтриване на акаунта ви, моля изтеглете всички данни или информация, които искате да запазите.",
+    "Are you sure you want to delete your account?": "Сигурни ли сте, че искате да изтриете акаунта си?",
+    "Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.": "След изтриване на акаунта ви, всички негови ресурси и данни ще бъдат перманентно изтрити. Моля, въведете паролата си, за да потвърдите, че искате да изтриете акаунта си перманентно."
+}
+
